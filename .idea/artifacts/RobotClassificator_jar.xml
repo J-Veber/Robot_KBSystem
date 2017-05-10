@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RobotClassificator:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/RobotClassificator_jar</output-path>
+    <root id="archive" name="RobotClassificator.jar">
+      <element id="module-output" name="RobotClassificator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/controlsfx/controlsfx/8.40.10/controlsfx-8.40.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.4/gson-2.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
